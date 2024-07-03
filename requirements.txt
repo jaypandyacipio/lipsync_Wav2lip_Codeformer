@@ -1,9 +1,2 @@
 streamlit
-opencv-python-headless
-ffmpeg-python
-gitpython
-scipy
-numpy
-torch
-librosa==0.8.1
-basicsr
+requests
